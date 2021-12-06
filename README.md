@@ -25,6 +25,7 @@ It has its own answer cdoe , but I just want to share my own with a bit modern i
 * Map and Hashing :
     * StringKeyHash
 * Graph:
+    * Graph ( Representation )
     * GraphTraversal( DFS, BFS)
 
 #### Enjoy Learning python and the basic of algorithm :) 
